@@ -1,4 +1,4 @@
-# 🕸️ Neverland Discord Exporter
+# 🕸️ Discord Chat Exporter
 
 Um bot em **Python** que exporta todas as mensagens e mídias de um canal do Discord diretamente para um arquivo **.html** totalmente formatado e visualmente bonito — ideal para **auditorias, investigações, backups ou análises de comunidades**.
 <img width="1048" height="420" alt="never_chat_exporter" src="https://github.com/user-attachments/assets/46246964-a500-470d-bfbd-2acbd549fcc1" />
